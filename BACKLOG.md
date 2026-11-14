@@ -50,7 +50,7 @@ Execute na ordem indicada. Nas funcionalidades, siga **RED → GREEN → REFACTO
 
 ### Marco 1 — Preparação
 
-- [ ] **Preparar o ambiente e o projeto Django** — T1 · 1h30. Criar ambiente virtual, registrar dependências e configurar um projeto com uma aplicação de tarefas e SQLite. **Pronto quando:** `python manage.py check` executar sem erros e o servidor iniciar em `127.0.0.1`.
+- [x] **Preparar o ambiente e o projeto Django** — T1 · 1h30. Criar ambiente virtual, registrar dependências e configurar um projeto com uma aplicação de tarefas e SQLite. **Pronto quando:** `python manage.py check` executar sem erros e o servidor iniciar em `127.0.0.1`.
 
 ### Marco 2 — Fluxo principal
 
